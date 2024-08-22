@@ -5,7 +5,7 @@ redirect_from:
   - /publications/
 ---
 
-### Papers
+## Papers
 $$\dagger$$Listed in order of contribution <br> 
 $$\ddagger$$Listed in alphabetical order of last name
 
@@ -16,7 +16,7 @@ $$\ddagger$$Listed in alphabetical order of last name
 - Cohen-Hillel T., **Moran-Pelaez M.$$\ddagger$$**, Perakis, G., Schoess, D., 2024. *A Multimodal Neural Network Approach to Demand Modeling: Capturing Cross-Item Effects and Returns*. soon to be submitted to *Operations Research*.
 - **Moran-Pelaez M.$$\dagger$$**, Perakis, G., and collaborators from InstaDeep, 2024. *Dynamic Policies for Combinatorial Problems in Operations: Adapting to New Structural Constraints*. work in progress.
 
-### Theses
+## Theses
 - **Moran-Pelaez M.**, 2017. *Learning Fuzzy Rule-Based Strategies for RTS Games*. Master's Thesis, Universidad Complutense de Madrid.
 - **Moran-Pelaez M.**, 2016. *A Real-Time System for Detection and Tracking of Moving Objects in Videos*. Bachelor's Thesis, Universidad Complutense de Madrid.
 - **Moran-Pelaez M.**, 2015. *A Categorical Approach to Automata and Language Theory*. Bachelor's Thesis, Universidad Complutense de Madrid.
