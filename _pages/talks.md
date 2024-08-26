@@ -20,7 +20,7 @@ redirect_from:
   - 2024 INFORMS Annual Conference in Seattle, WA. *Upcoming*.
   - 2024 Manufacturing & Services Operation Management (MSOM) Conference in Minneapolis, MN.
 
-- Moran-Pelaez M., Moran-Pelaez M., and Perakis, G. *A First-Order Approach to the Product Replacement Problem with Cross-Item Effects in Retail*
+- Moran-Pelaez M., and Perakis, G. *A First-Order Approach to the Product Replacement Problem with Cross-Item Effects in Retail*
   - 2023 INFORMS Annual Conference in Phoenix, AZ.
 
 - Moran-Pelaez M., and Platon-Alomar, I. *Predictive Analytics with Small Data*
