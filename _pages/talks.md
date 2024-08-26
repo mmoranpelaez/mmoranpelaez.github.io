@@ -5,7 +5,7 @@ redirect_from:
   - /talks/
 ---
 
-*Note:* Presenter listed first
+> **Note:** Presenter listed first
 
 - Moran-Pelaez M., Cohen-Hillel T., and Perakis, G. *The Product Replacement Problem: Addressing Manager Behavior and Demand Uncertainty*
   - 2024 INFORMS Annual Conference in Seattle, WA. *Upcoming*.

@@ -6,8 +6,8 @@ redirect_from:
 ---
 
 ## Papers
-$$\dagger$$Listed in order of contribution <br> 
-$$\ddagger$$Listed in alphabetical order of last name
+> $$\dagger$$Listed in order of contribution <br> 
+> $$\ddagger$$Listed in alphabetical order of last name
 
 - **Moran-Pelaez M.$$\dagger$$**, Cohen-Hillel T., Fernandez-de-Castro B. (collaborator at Zara), and Perakis, G., 2024. *Manager Behavior in the Product Replacement Problem: Addressing Preferences and Uncertainty*. under review at *Management Science*
     - Accepted to the Supply Chain Management SIG at MSOM 2024.

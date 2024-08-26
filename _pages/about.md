@@ -10,14 +10,20 @@ redirect_from:
 
 
 
-<p>Hola &#128075;</p>
+<p>Hola &#128075; </p>
 I am a final-year PhD Candidate in Operations Research at MIT, working with [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research focuses on retail operations management, integrating principles from operations management, optimization, and machine learning to address the complexities of the retail sector. I am particularly interested in studying how the retailer's optimal policies are impacted by different factors such as complementarity and substitution cross-item effects, and  manager and customer behavior.
 
 Prior to MIT, I worked for five years in industry as a Data Scientist in the areas of marketing mix modeling, attribution, retail location analytics, and fintech. My academic background includes Bachelor's degrees in Applied Mathematics and Computer Science, as well as a Master's degree in Data Science and Statistics from Universidad Complutense de Madrid in Madrid, Spain. 
 
-**I am on the Fall 2024 Academic Job market!** I will be at INFORMS 2024:
-- I am co-chairing the session *Summit-339: Revenue Management: from theory to practice* together with Georgia Perakis on Sunday, October 20, 12:45 PM - 2:00 PM and presenting on that session at 1:45 PM.
-- I am presenting during session *Summit-444: Data Analytics and Technology in Operations Management* on Tuesday, October 22, 4:00-4:15 PM.
+<div class="warning" style='background-color:#dce5fc; border-left: solid #6a92f7 4px; border-radius: 4px; padding:0.3em; margin-bottom:1em;'>
+<span>
+<p><b>	&#9888; I am on the Fall 2024 Academic Job market!</b> I will be at INFORMS 2024:
+<ul>
+  <li>I am co-chairing the session <em>Summit-339: Revenue Management: from theory to practice</em> together with  Georgia Perakis on Sunday, October 20, 12:45 PM - 2:00 PM and presenting on that session at 1:45 PM.</li>
+  <li>I am presenting during session <em>Summit-444: Data Analytics and Technology in Operations Management</em> on Tuesday, October 22, 4:00-4:15 PM.</li>
+</ul></p>
+</span>
+</div>
 
 My research interests include:
 - Retail Operations Management
@@ -25,9 +31,10 @@ My research interests include:
 - Machine Learning
 - Reinforcement Learning
 
+
 ## Papers
-$$\dagger$$Listed in order of contribution <br> 
-$$\ddagger$$Listed in alphabetical order of last name
+> $$\dagger$$Listed in order of contribution <br> 
+> $$\ddagger$$Listed in alphabetical order of last name
 
 - **Moran-Pelaez M.$$\dagger$$**, Cohen-Hillel T., Fernandez-de-Castro B. (collaborator at Zara), and Perakis, G., 2024. *Manager Behavior in the Product Replacement Problem: Addressing Preferences and Uncertainty*. under review at *Management Science*
     - Accepted to the Supply Chain Management SIG at MSOM 2024.
