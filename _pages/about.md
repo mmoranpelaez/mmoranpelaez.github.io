@@ -65,21 +65,21 @@ $$\ddagger$$Listed in alphabetical order of last name
 
 ## Professional Experience
 
-- **InstaDeep (currently part of BioNTech)** (Summer 2021)  
+- InstaDeep (currently part of BioNTech) (Summer 2021)  
   Research Science Intern, Cambridge, MA
 
-- **Capchase (New York-based fintech startup)** (2020 -- 2021)  
+- Capchase (New York-based fintech startup) (2020 -- 2021)  
   Lead Data Scientist, Madrid, Spain 
 
-- **Geoblink (Spanish location intelligence startup)** (2018 -- 2020)  
+- Geoblink (Spanish location intelligence startup) (2018 -- 2020)  
   Senior Data Scientist, Madrid, Spain
 
-- **Conento Decision Science (currently part of Deloitte)** (2017 -- 2018)  
+- Conento Decision Science (currently part of Deloitte) (2017 -- 2018)  
   Senior Data Analyst, Madrid, Spain 
 
 ## Leadership, Service, and Outreach
 
-- **Coordinator of the ORC IAP Seminar, MIT ORC** (Winter 2023)
-- **INFORMS Officer of INFORMS student chapter, MIT** (2021-2022)  
-- **Founder and President of the Tech Brand Awareness Committee, Geoblink-Madrid** (2018-2020)  
-- **Founder and Mentor of the Machine Learning Club, Conento-Madrid** (2017-2018) 
+- Coordinator of the ORC IAP Seminar, MIT ORC (Winter 2023)
+- INFORMS Officer of INFORMS student chapter, MIT (2021-2022)  
+- Founder and Leader of the Tech Brand Awareness Committee, Geoblink-Madrid (2018-2020)  
+- Founder and Mentor of the Machine Learning Club, Conento-Madrid (2017-2018) 

@@ -5,9 +5,9 @@ redirect_from:
   - /talks/
 ---
 
-*Note:* authors are listed in alphabetical order of last name
+*Note:* Presenter listed first
 
-- Cohen-Hillel T., Moran-Pelaez M., and Perakis, G. *The Product Replacement Problem: Addressing Manager Behavior and Demand Uncertainty*
+- Moran-Pelaez M., Cohen-Hillel T., and Perakis, G. *The Product Replacement Problem: Addressing Manager Behavior and Demand Uncertainty*
   - 2024 INFORMS Annual Conference in Seattle, WA. *Upcoming*.
   - 2024 MSOM Supply Chain Management SIG Conference in Minneapolis, MN.
   - 2024 POMS Annual Conference in Minneapolis, MN.
@@ -20,11 +20,11 @@ redirect_from:
   - 2024 INFORMS Annual Conference in Seattle, WA. *Upcoming*.
   - 2024 Manufacturing & Services Operation Management (MSOM) Conference in Minneapolis, MN.
 
-- Cohen-Hillel T., Moran-Pelaez M., and Perakis, G. *A First-Order Approach to the Product Replacement Problem with Cross-Item Effects in Retail*
+- Moran-Pelaez M., Moran-Pelaez M., and Perakis, G. *A First-Order Approach to the Product Replacement Problem with Cross-Item Effects in Retail*
   - 2023 INFORMS Annual Conference in Phoenix, AZ.
 
 - Moran-Pelaez M., and Platon-Alomar, I. *Predictive Analytics with Small Data*
   - Spring 2020, Facebook Developers Circle Meetup in Madrid, Spain.
 
-- Dominguez-Vazquez D., and Moran-Pelaez M. *Data Science Applied to Real Location Intelligence Problems*
+- Moran-Pelaez M., and Dominguez-Vazquez D. *Data Science Applied to Real Location Intelligence Problems*
   - Fall 2019, Ironhack Startups Projects Showcase in Madrid, Spain.

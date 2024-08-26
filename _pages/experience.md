@@ -51,13 +51,13 @@ redirect_from:
   - Explored traditional and state-of-the-art techniques for the 3D bin-packing problem (logistics) to find research opportunities at the intersection of Deep Reinforcement Learning and Optimization.
   - Developed tractable solutions for the 3D bin-packing problem in logistics that can adapt to new structural constraints.
 
-- **Capchase (New York-based fintech startup)** (2020 -- 2021)  
+- **[Capchase](https://www.capchase.com/) (New York-based fintech startup)** (2020 -- 2021)  
   Lead Data Scientist, Madrid, Spain  
   - Set up and managed Capchase data team (5 direct reports), and coordinated with other tech team leads.
   - Defined, prioritized, and managed the data roadmap of the company.
   - Led the automation of business insights extraction to drive decision-making, reducing risk assessment time from 3-5 days to 4-5 hours.
 
-- **Geoblink (Spanish location intelligence startup)** (2018 -- 2020)  
+- **[Geoblink](https://www.geoblink.com/) (Spanish location intelligence startup)** (2018 -- 2020)  
   Senior Data Scientist, Madrid, Spain  
   - Led the technical definition and implementation of the Sales Forecast and Sales Analysis products, optimizing retail network performance.
   - Researched state-of-the-art approaches on model interpretability and implemented a model-agnostic explainer in production.
@@ -76,7 +76,7 @@ redirect_from:
 - **INFORMS Officer of INFORMS student chapter, MIT** (2021-2022)  
   - Organized bi-weekly social events and activities for graduate students at MIT, including activities during the Open House for incoming students and the annual retreat.
 
-- **Founder and President of the Tech Brand Awareness Committee, Geoblink-Madrid** (2018-2020)  
+- **Founder and Leader of the Tech Brand Awareness Committee, Geoblink-Madrid** (2018-2020)  
   - Assembled a team from diverse technical backgrounds to increase Geoblink's visibility as a strong technical company in Spain and attract talent.
   - Organized and participated in technical events representing Geoblink's Tech Team.
 
