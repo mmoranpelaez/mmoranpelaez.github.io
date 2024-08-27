@@ -13,7 +13,7 @@ redirect_from:
 <p>Hola &#128075; </p>
 I am a final-year PhD Candidate in Operations Research at MIT, working with [Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/). My research focuses on retail operations management, integrating principles from operations management, optimization, and machine learning to address the complexities of the retail sector. I am particularly interested in studying how the retailer's optimal policies are impacted by different factors such as complementarity and substitution cross-item effects, and  manager and customer behavior.
 
-Prior to MIT, I worked for five years in industry as a Data Scientist in the areas of marketing mix modeling, attribution, retail location analytics, and fintech. My academic background includes Bachelor's degrees in Applied Mathematics and Computer Science, as well as a Master's degree in Data Science and Statistics from Universidad Complutense de Madrid in Madrid, Spain. 
+Prior to MIT, I worked for five years in industry as a Data Scientist in the areas of marketing mix and attribution modeling, retail location analytics, and fintech. 
 
 <div class="warning" style='background-color:#dce5fc; border-left: solid #6a92f7 4px; border-radius: 4px; padding:0.3em; margin-bottom:1em;'>
 <span>
