@@ -1,8 +1,7 @@
 ---
 title: "Honors"
 author_profile: true
-redirect_from: 
-  - /honors/
+permalink: /honors/
 ---
 
 - **MIT Sloan Outstanding Teaching Assistant Award** (2024)

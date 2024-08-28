@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 <embed src="{{ site.baseurl }}/files/CV_ManuelMoran.pdf" width="600" height="700" type='application/pdf'>

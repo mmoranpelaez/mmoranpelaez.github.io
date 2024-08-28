@@ -1,8 +1,11 @@
 ---
 title: "Experience"
 author_profile: true
-redirect_from: 
-  - /experience/
+permalink: /experience/
+redirect_from:
+  - /teaching/
+  - /work/
+  - /industry/
 ---
 
 ## Teaching Experience

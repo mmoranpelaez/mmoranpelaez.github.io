@@ -1,8 +1,7 @@
 ---
 title: "Talks"
 author_profile: true
-redirect_from: 
-  - /talks/
+permalink: /talks/
 ---
 
 > **Note:** Presenter listed first

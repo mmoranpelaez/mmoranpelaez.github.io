@@ -1,8 +1,9 @@
 ---
 title: "Publications"
 author_profile: true
+permalink: /publications/
 redirect_from: 
-  - /publications/
+  - /research/
 ---
 
 ## Papers
