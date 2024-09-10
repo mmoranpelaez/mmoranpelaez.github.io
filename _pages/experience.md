@@ -22,13 +22,13 @@ redirect_from:
 **Teaching Assistant**
 
 - **MIT Sloan, 15.730 Data, Models, and Decisions, Head Teaching Assistant** (Spring 2024)
-  - Executive MBA core course; 120+ students in two sections; Overall rating: 6.8/7.0
+  - Executive MBA core course; 120+ students in two sections; Overall rating: 6.84/7.0
 
 - **MIT Sloan, 15.774/780 Analytics of Operations Management, Head Teaching Assistant** (Fall 2023)
   - Undergraduate, MBA, and Sloan Fellows course; 120+ students in two sections; Overall rating: 6.8/7.0
 
 - **MIT Sloan, 15.730 Data, Models, and Decisions, Teaching Assistant** (Spring 2023)
-  - Executive MBA core course; 120+ students in two sections; Overall rating: 6.7/7.0
+  - Executive MBA core course; 120+ students in two sections; Overall rating: 6.74/7.0
 
 **Mentor and Tutor**
 

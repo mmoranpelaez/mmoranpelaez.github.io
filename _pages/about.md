@@ -57,11 +57,11 @@ My research interests include:
 ## Teaching Experience
 
 
-- MIT Sloan, 15.730 Data, Models, and Decisions, Head Teaching Assistant (Spring 2024), overall rating: 6.8/7.0
+- MIT Sloan, 15.730 Data, Models, and Decisions, Head Teaching Assistant (Spring 2024), overall rating: 6.84/7.0
 - MIT Sloan, Introduction to Python Tutorial for EMBA students, Instructor (Spring 2024)
 - MIT Sloan, Introduction to Excel Tutorial for EMBA students, Instructor (Spring 2024)
 - MIT Sloan, 15.774/780 Analytics of Operations Management, Head Teaching Assistant (Fall 2023), overall rating: 6.8/7.0
-- MIT Sloan, 15.730 Data, Models, and Decisions, Teaching Assistant (Spring 2023), overall rating: 6.7/7.0
+- MIT Sloan, 15.730 Data, Models, and Decisions, Teaching Assistant (Spring 2023), overall rating: 6.74/7.0
 - MIT Sloan, Introduction to Excel Tutorial for EMBA students, Instructor (Spring 2023)
 
 - MIT Sloan, Visiting Student Program, Research Mentor (2023-2024)
