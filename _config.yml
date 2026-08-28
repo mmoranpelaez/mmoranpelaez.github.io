@@ -1,0 +1,11 @@
+# This repository is no longer the website. It only redirects old URLs to
+# https://mmoranpelaez.com. The site itself lives in a separate repository.
+title: "Manuel Moran-Pelaez"
+url: "https://mmoranpelaez.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+  - README.md
