@@ -7,5 +7,10 @@ baseurl: ""
 plugins:
   - jekyll-redirect-from
 
+# _pages is not a standard Jekyll directory; without this the redirect
+# stubs are never built.
+include:
+  - _pages
+
 exclude:
   - README.md
